@@ -1,0 +1,19 @@
+body{
+    background-color: pink;
+    color: white;
+    text-align: center;
+}
+.heading{
+    font-size: 25px;
+    color: aqua;
+    font-weight: bold;
+}
+.name_of_objects{
+    color: maroon;
+    font-size: 17px;
+}
+#button{
+    color: chocolate;
+    font-size: 17px;
+    font-weight: bold;
+}
